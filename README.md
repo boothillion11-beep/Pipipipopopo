@@ -65,21 +65,20 @@ python main.py
 ```
 
 ## Prints
+<img width="280" height="145" alt="image" src="https://github.com/user-attachments/assets/4f00683a-acec-456f-95e0-c43ddc509553" />
 
-Adicionar imagens do programa funcionando.
 
 ### Menu Inicial
 
-(print)
+<img width="357" height="123" alt="image" src="https://github.com/user-attachments/assets/61062303-46a1-478f-b6f2-f495afe13f9b" />
+
 
 ### Combate
 
-(print)
+<img width="357" height="123" alt="image" src="https://github.com/user-attachments/assets/ed263fe9-18a2-4c88-b206-114f9a2d49ff" />
 
-### Salvamento
 
-(print)
 
 ## Autor
 
-Seu Nome
+Eduardo Camilo Ribeiro Fortes
